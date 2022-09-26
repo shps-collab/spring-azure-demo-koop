@@ -12,7 +12,7 @@ public class SpringAzureDemoKoopApplication {
 	
 	@GetMapping("/message")
 	public String message() {
-		return "Hello World Mango 4!";
+		return "Hello World Mango 777!";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAzureDemoKoopApplication.class, args);
